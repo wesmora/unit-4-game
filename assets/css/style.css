@@ -1,0 +1,27 @@
+div{
+	margin: 20px;
+	padding: 10px;
+	font-size: 40px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-style: bold;
+}
+
+h1 { 
+	margin-bottom: 10px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: 600;
+	font-size: 30px;
+	line-height: 50px;
+	padding-bottom: 20px;
+	font-style: bold;
+}
+
+p {
+	margin-bottom: 20px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-weight: 600;
+	font-size: 15px;
+	line-height: 10px;
+	padding-bottom: 20px;
+}
+
